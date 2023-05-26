@@ -50,4 +50,4 @@ public class UcakBileti {
 }
 ```
 # Patika Profilim
-<a href='https://academy.patika.dev/profile'><u>Patika Profilim</u></a> 
+<a href='https://academy.patika.dev/profile'><u>Patika Profilim</u></a>
